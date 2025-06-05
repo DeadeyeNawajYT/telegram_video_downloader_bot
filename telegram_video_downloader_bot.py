@@ -8,7 +8,7 @@ from telegram.ext import (
     ContextTypes, filters
 )
 
-BOT_TOKEN = os.environ['8095268426:AAEPH2gdZ37dQnaRKy_YYmWf2NHDNiji60w']
+BOT_TOKEN = os.environ['BOT_TOKEN']
 
 user_states = {}
 
